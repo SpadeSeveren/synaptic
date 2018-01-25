@@ -61,4 +61,4 @@ var trainingOptions = {
 }
 
 // console.log(myNet.trainer);
-trainer.train(trainingSet, trainingOptions);
+myNet.trainer.train(trainingSet, trainingOptions);
