@@ -1,6 +1,7 @@
 var synaptic = require('synaptic');
 const set = require('./data/set.json');
 const vals = require('./data/vals.json');
+const fs = require('fs');
 var Neuron = synaptic.Neuron,
     Layer = synaptic.Layer,
     Network = synaptic.Network,
@@ -62,3 +63,7 @@ var trainingOptions = {
 
 // console.log(myNet.trainer);
 myNet.trainer.train(trainingSet, trainingOptions);
+
+
+var exported = myNet.toJSON();
+fs.writeFileSync('weights.json', exported, 'utf8');

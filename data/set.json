@@ -4,7 +4,6 @@
             "name": "workout",
             "duration": "120",
             "enjoy": true,
-            "time": 1455063275,
             "tags": [
                 "gym",
                 "weights"
@@ -14,7 +13,6 @@
             "name": "lunch",
             "duration": "45",
             "enjoy": false,
-            "time": 1455063275,
             "tags": [
                 "salad",
                 "wine"
@@ -24,7 +22,6 @@
             "name": "sleep",
             "duration": "420",
             "enjoy": true,
-            "time": 1455063275,
             "tags": [
                 "bed",
                 "romance"
