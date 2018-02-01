@@ -61,9 +61,8 @@ var trainingOptions = {
     error: .005,
 }
 
-// console.log(myNet.trainer);
-myNet.trainer.train(trainingSet, trainingOptions);
+trainer.train(trainingSet, trainingOptions);
 
+var exported = JSON.stringify(myNet.toJSON());
 
-var exported = myNet.toJSON();
 fs.writeFileSync('weights.json', exported, 'utf8');
