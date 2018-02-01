@@ -26,6 +26,15 @@
                 "bed",
                 "romance"
             ]
+        },
+        {
+            "name": "workout",
+            "duration": "600",
+            "enjoy": false,
+            "tags": [
+                "bike",
+                "hard"
+            ]
         }
     ]
 }

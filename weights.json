@@ -7,6 +7,54 @@
             },
             "state": 0,
             "old": 0,
+            "activation": 0,
+            "bias": 0,
+            "layer": "input",
+            "squash": "LOGISTIC"
+        },
+        {
+            "trace": {
+                "elegibility": {},
+                "extended": {}
+            },
+            "state": 0,
+            "old": 0,
+            "activation": 0,
+            "bias": 0,
+            "layer": "input",
+            "squash": "LOGISTIC"
+        },
+        {
+            "trace": {
+                "elegibility": {},
+                "extended": {}
+            },
+            "state": 0,
+            "old": 0,
+            "activation": 0,
+            "bias": 0,
+            "layer": "input",
+            "squash": "LOGISTIC"
+        },
+        {
+            "trace": {
+                "elegibility": {},
+                "extended": {}
+            },
+            "state": 0,
+            "old": 0,
+            "activation": 0,
+            "bias": 0,
+            "layer": "input",
+            "squash": "LOGISTIC"
+        },
+        {
+            "trace": {
+                "elegibility": {},
+                "extended": {}
+            },
+            "state": 0,
+            "old": 0,
             "activation": 1,
             "bias": 0,
             "layer": "input",
@@ -19,31 +67,7 @@
             },
             "state": 0,
             "old": 0,
-            "activation": 0,
-            "bias": 0,
-            "layer": "input",
-            "squash": "LOGISTIC"
-        },
-        {
-            "trace": {
-                "elegibility": {},
-                "extended": {}
-            },
-            "state": 0,
-            "old": 0,
-            "activation": 0,
-            "bias": 0,
-            "layer": "input",
-            "squash": "LOGISTIC"
-        },
-        {
-            "trace": {
-                "elegibility": {},
-                "extended": {}
-            },
-            "state": 0,
-            "old": 0,
-            "activation": 0.42,
+            "activation": 0.6,
             "bias": 0,
             "layer": "input",
             "squash": "LOGISTIC"
@@ -68,30 +92,6 @@
             "state": 0,
             "old": 0,
             "activation": 1,
-            "bias": 0,
-            "layer": "input",
-            "squash": "LOGISTIC"
-        },
-        {
-            "trace": {
-                "elegibility": {},
-                "extended": {}
-            },
-            "state": 0,
-            "old": 0,
-            "activation": 0,
-            "bias": 0,
-            "layer": "input",
-            "squash": "LOGISTIC"
-        },
-        {
-            "trace": {
-                "elegibility": {},
-                "extended": {}
-            },
-            "state": 0,
-            "old": 0,
-            "activation": 0,
             "bias": 0,
             "layer": "input",
             "squash": "LOGISTIC"
